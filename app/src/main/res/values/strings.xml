@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="accessibility_service_description">JARVIS AI Accessibility Service allows JARVIS to navigate apps, perform taps, and assist with hands-free device automation upon your explicit command.</string>
+</resources>
